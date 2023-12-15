@@ -16,3 +16,4 @@ I am Youssef Mohamed
 
 COMPANY|TITLE|DIFFICULTY|PROBLEM|
 ---|---|---|---|
+Twitter|Histogram of Tweets [Twitter SQL Interview Question]|Easy|[link](Histogram%20of%20Tweets%20[Twitter%20SQL%20Interview%20Question].md)|
