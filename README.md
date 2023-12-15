@@ -16,5 +16,5 @@ I am Youssef Mohamed
 
 COMPANY|TITLE|DIFFICULTY|PROBLEM|
 ---|---|---|---|
-Twitter|Histogram of Tweets [Twitter SQL Interview Question]|Easy|[link](Histogram%20of%20Tweets%20[Twitter%20SQL%20Interview%20Question].md)|
-Facebook|Page With No Likes [Facebook SQL Interview Question]|Easy|[link](Page%20With%20No%20Likes%20[Facebook%20SQL%20Interview%20Question].md)|
+Twitter|Histogram of Tweets [Twitter SQL Interview Question]|Easy|[link](problems/Histogram%20of%20Tweets%20[Twitter%20SQL%20Interview%20Question].md)|
+Facebook|Page With No Likes [Facebook SQL Interview Question]|Easy|[link](problems/Page%20With%20No%20Likes%20[Facebook%20SQL%20Interview%20Question].md)|
