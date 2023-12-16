@@ -19,3 +19,4 @@ COMPANY|TITLE|DIFFICULTY|PROBLEM|
 Twitter|Histogram of Tweets [Twitter SQL Interview Question]|Easy|[link](problems/Histogram%20of%20Tweets%20[Twitter%20SQL%20Interview%20Question].md)|
 Facebook|Page With No Likes [Facebook SQL Interview Question]|Easy|[link](problems/Page%20With%20No%20Likes%20[Facebook%20SQL%20Interview%20Question].md)|
 New York Times|Laptop vs. Mobile Viewership [New York Times SQL Interview Question]|Easy|[link](problems/Laptop%20vs.%20Mobile%20Viewership%20[New%20York%20Times%20SQL%20Interview%20Question].md)|
+Facebook|Average Post Hiatus (Part 1) [Facebook SQL Interview Question]|Easy|[link](problems/Average%20Post%20Hiatus%20(Part%201)%20[Facebook%20SQL%20Interview%20Question].md)|
