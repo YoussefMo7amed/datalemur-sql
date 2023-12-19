@@ -25,3 +25,4 @@ Linkedin|Duplicate Job Listings [Linkedin SQL Interview Question]|Easy|[link](pr
 Robinhood|Cities With Completed Trades [Robinhood SQL Interview Question]|Easy|[link](problems/Cities%20With%20Completed%20Trades%20[Robinhood%20SQL%20Interview%20Question].md)|
 Amazon|Average Review Ratings [Amazon SQL Interview Question]|Easy|[link](problems/Average%20Review%20Ratings%20[Amazon%20SQL%20Interview%20Question].md)|
 Facebook|App Click-through Rate (CTR) [Facebook SQL Interview Question]|Easy|[link](problems/App%20Click-through%20Rate%20(CTR)%20[Facebook%20SQL%20Interview%20Question].md)|
+TikTok|Second Day Confirmation [TikTok SQL Interview Question]|Easy|[link](problems/Second%20Day%20Confirmation%20[TikTok%20SQL%20Interview%20Question].md)|
