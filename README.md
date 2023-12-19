@@ -23,3 +23,4 @@ Facebook|Average Post Hiatus (Part 1) [Facebook SQL Interview Question]|Easy|[li
 Microsoft|Teams Power Users [Microsoft SQL Interview Question]|Easy|[link](problems/Teams%20Power%20Users%20[Microsoft%20SQL%20Interview%20Question].md)|
 Linkedin|Duplicate Job Listings [Linkedin SQL Interview Question]|Easy|[link](problems/Duplicate%20Job%20Listings%20[Linkedin%20SQL%20Interview%20Question].md)|
 Robinhood|Cities With Completed Trades [Robinhood SQL Interview Question]|Easy|[link](problems/Cities%20With%20Completed%20Trades%20[Robinhood%20SQL%20Interview%20Question].md)|
+Amazon|Average Review Ratings [Amazon SQL Interview Question]|Easy|[link](problems/Average%20Review%20Ratings%20[Amazon%20SQL%20Interview%20Question].md)|
