@@ -29,3 +29,5 @@ TikTok|Second Day Confirmation [TikTok SQL Interview Question]|Easy|[link](probl
 JPMorgan Chase|Cards Issued Difference [JPMorgan Chase SQL Interview Question]|Easy|[link](problems/Cards%20Issued%20Difference%20[JPMorgan%20Chase%20SQL%20Interview%20Question].md)|
 Alibaba|Compressed Mean [Alibaba SQL Interview Question]|Easy|[link](problems/Compressed%20Mean%20[Alibaba%20SQL%20Interview%20Question].md)|
 CVS Health|Pharmacy Analytics (Part 1) [CVS Health SQL Interview Question]|Easy|[link](problems/Pharmacy%20Analytics%20(Part%201)%20[CVS%20Health%20SQL%20Interview%20Question].md)|
+CVS Health|Pharmacy Analytics (Part 2) [CVS Health SQL Interview Question]|Easy|[link](problems/Pharmacy%20Analytics%20(Part%202)%20[CVS%20Health%20SQL%20Interview%20Question].md)|
+CVS Health|Pharmacy Analytics (Part 3) [CVS Health SQL Interview Question]|Easy|[link](problems/Pharmacy%20Analytics%20(Part%203)%20[CVS%20Health%20SQL%20Interview%20Question].md)|
