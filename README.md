@@ -1,6 +1,6 @@
 # DataLemur SQL solutions
 
-![img](https://datalemur.com/_next/image?url=%2Flogo.png&w=256&q=75)
+[![img](https://datalemur.com/_next/image?url=%2Flogo.png&w=256&q=75)](https://datalemur.com?referralCode=256wYou1)
 ---
 
 ## Let's connect
