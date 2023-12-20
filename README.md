@@ -27,3 +27,4 @@ Amazon|Average Review Ratings [Amazon SQL Interview Question]|Easy|[link](proble
 Facebook|App Click-through Rate (CTR) [Facebook SQL Interview Question]|Easy|[link](problems/App%20Click-through%20Rate%20(CTR)%20[Facebook%20SQL%20Interview%20Question].md)|
 TikTok|Second Day Confirmation [TikTok SQL Interview Question]|Easy|[link](problems/Second%20Day%20Confirmation%20[TikTok%20SQL%20Interview%20Question].md)|
 JPMorgan Chase|Cards Issued Difference [JPMorgan Chase SQL Interview Question]|Easy|[link](problems/Cards%20Issued%20Difference%20[JPMorgan%20Chase%20SQL%20Interview%20Question].md)|
+Alibaba|Compressed Mean [Alibaba SQL Interview Question]|Easy|[link](problems/Compressed%20Mean%20[Alibaba%20SQL%20Interview%20Question].md)|
