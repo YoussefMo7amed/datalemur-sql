@@ -31,3 +31,4 @@ Alibaba|Compressed Mean [Alibaba SQL Interview Question]|Easy|[link](problems/Co
 CVS Health|Pharmacy Analytics (Part 1) [CVS Health SQL Interview Question]|Easy|[link](problems/Pharmacy%20Analytics%20(Part%201)%20[CVS%20Health%20SQL%20Interview%20Question].md)|
 CVS Health|Pharmacy Analytics (Part 2) [CVS Health SQL Interview Question]|Easy|[link](problems/Pharmacy%20Analytics%20(Part%202)%20[CVS%20Health%20SQL%20Interview%20Question].md)|
 CVS Health|Pharmacy Analytics (Part 3) [CVS Health SQL Interview Question]|Easy|[link](problems/Pharmacy%20Analytics%20(Part%203)%20[CVS%20Health%20SQL%20Interview%20Question].md)|
+Uber|User's Third Transaction [Uber SQL Interview Question]|Medium|[link](problems/User's%20Third%20Transaction%20[Uber%20SQL%20Interview%20Question].md)|
