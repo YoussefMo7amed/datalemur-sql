@@ -34,3 +34,4 @@ CVS Health|Pharmacy Analytics (Part 3) [CVS Health SQL Interview Question]|Easy|
 Uber|User's Third Transaction [Uber SQL Interview Question]|Medium|[link](problems/User's%20Third%20Transaction%20[Uber%20SQL%20Interview%20Question].md)|
 Alibaba|Compressed Mode [Alibaba SQL Interview Question]|Medium|[link](problems/Compressed%20Mode%20[Alibaba%20SQL%20Interview%20Question].md)|
 Twitter|Tweets' Rolling Averages [Twitter SQL Interview Question]|Medium|[link](problems/Tweets'%20Rolling%20Averages%20[Twitter%20SQL%20Interview%20Question].md)|
+Amazon|Highest-Grossing Items [Amazon SQL Interview Question]|Medium|[link](problems/Highest-Grossing%20Items%20[Amazon%20SQL%20Interview%20Question].md)|
