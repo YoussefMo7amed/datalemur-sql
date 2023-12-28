@@ -36,3 +36,4 @@ Alibaba|Compressed Mode [Alibaba SQL Interview Question]|Medium|[link](problems/
 Twitter|Tweets' Rolling Averages [Twitter SQL Interview Question]|Medium|[link](problems/Tweets'%20Rolling%20Averages%20[Twitter%20SQL%20Interview%20Question].md)|
 Amazon|Highest-Grossing Items [Amazon SQL Interview Question]|Medium|[link](problems/Highest-Grossing%20Items%20[Amazon%20SQL%20Interview%20Question].md)|
 Spotify|Top 5 Artists [Spotify SQL Interview Question]|Medium|[link](problems/Top%205%20Artists%20[Spotify%20SQL%20Interview%20Question].md)|
+TikTok|Signup Activation Rate [TikTok SQL Interview Question]|Medium|[link](problems/Signup%20Activation%20Rate%20[TikTok%20SQL%20Interview%20Question].md)|
