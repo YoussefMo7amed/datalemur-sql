@@ -38,3 +38,4 @@ Amazon|Highest-Grossing Items [Amazon SQL Interview Question]|Medium|[link](prob
 Spotify|Top 5 Artists [Spotify SQL Interview Question]|Medium|[link](problems/Top%205%20Artists%20[Spotify%20SQL%20Interview%20Question].md)|
 TikTok|Signup Activation Rate [TikTok SQL Interview Question]|Medium|[link](problems/Signup%20Activation%20Rate%20[TikTok%20SQL%20Interview%20Question].md)|
 Microsoft|Supercloud Customer [Microsoft SQL Interview Question]|Medium|[link](problems/Supercloud%20Customer%20[Microsoft%20SQL%20Interview%20Question].md)|
+Walmart|Histogram of Users and Purchases [Walmart SQL Interview Question]|Medium|[link](problems/Histogram%20of%20Users%20and%20Purchases%20[Walmart%20SQL%20Interview%20Question].md)|
